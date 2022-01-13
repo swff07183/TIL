@@ -44,13 +44,13 @@ $ git rm {file name}
 
 ## git clone, git pull
 
-- git clone
+- git clone : 원격 저장소 repository 가져오기
 
 ```bash
 $ git clone https://github.com/{userID}/{repository.git}
 ```
 
-- git pull
+- git pull : 원격 저장소에 저장된 최신 버전을 로컬에 업데이트 하기
 
 ```bash
 $ git pull
