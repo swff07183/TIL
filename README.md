@@ -1,4 +1,10 @@
-# Study
+# TIL(Today I Learned)
+
+#### Today I Learned
+
+공부했던 내용 정리하기
+
+--------
 
 #### Basic
 
