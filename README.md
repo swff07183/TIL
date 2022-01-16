@@ -24,3 +24,5 @@
 
 - [requests 모듈 사용](python/api_age.md)
 
+- [python 입력 빠르게 받기](python/input.md)
+
