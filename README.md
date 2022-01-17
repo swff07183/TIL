@@ -18,8 +18,6 @@
 
 - [Terminal 테마 설정](Mac/zsh.md)
 
-
-
 #### Python
 
 - [requests 모듈 사용](python/api_age.md)
