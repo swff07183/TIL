@@ -25,3 +25,10 @@
 - 셀프 넘버([4673번](problem/6/4673.md))
 
 - 한수([1065번](problem/6/1065.md))
+
+
+
+### 기본 수학
+
+- Fly me to the Alpha Centauri([1011번](problem/8/1011.md))
+
