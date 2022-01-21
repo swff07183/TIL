@@ -24,3 +24,4 @@
 
 - [python 입력 빠르게 받기](python/input.md)
 
+- [그 외..](./basic.md)
