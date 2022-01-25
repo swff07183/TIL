@@ -32,3 +32,4 @@
 
 - Fly me to the Alpha Centauri([1011번](problem/8/1011.md))
 
+- 터렛([1002번](problem/8/1002.md))
